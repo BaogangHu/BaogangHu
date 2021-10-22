@@ -8,7 +8,7 @@ Professor, LIAMA/NLPR, Institute of Automation
 Early Advocate of the Open Source Movement in China  
 Loving Husband, Father, and Grandfather
 
-![Condolences](condolences/)
+[Condolences](condolences/)
 
 <http://www.escience.cn/people/hubaogang/index.html>
 
