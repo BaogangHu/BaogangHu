@@ -1,9 +1,11 @@
-# In memorial of Dr. Bao-Gang HU 
+# In memorial of Dr. Bao-Gang HU  (胡包钢)
 
-1955.2.8-2021.8.22
+![images/baogang.jpg]
 
-Professor, LIAMA/NLPR, Institute of Automation
-Early Advocate of the Open Source Movement in China
+8 February 1955 – 22 Augest 2021
+
+Professor, LIAMA/NLPR, Institute of Automation  
+Early Advocate of the Open Source Movement in China  
 Loving Husband, Father, and Grandfather
 
 
@@ -28,16 +30,16 @@ of LIAMA (the Chinese-French Joint Laboratory for Computer Science,
 Control and Applied Mathematics, sponsored by CAS, INRIA, CNRS and
 CIRAD). 
 
-He has one son and two grandsons.
+At the time of his death in August 2021, he was survived by his wife Wen-Zheng Zhang, his son, and two grandsons. 
 
 
 ## Professional Affiliation
 
 Senior Member,IEEE Systems, Man and Cybernetics Society
 
-MembersScilab Scientific Board, France 
+Members Scilab Scientific Board, France 
 
-Editorial Board of“*Pattern Recognition and Artificial Intelligence”*
+Editorial Board of *“Pattern Recognition and Artificial Intelligence”*
 
 Chinese Association of Automation, Committee of Intelligent Control
 
@@ -478,3 +480,10 @@ Newfoundland, Canada (from 1995 to 1997)
     Educational Development in China”, “Proceedings of the First
     International Conference on Open Source Systems”, M. Scotto and G.
     Succi (Eds.), Genova, Italy, July 11-15, 2005 , pp. 254-258.
+
+
+## Design work
+
+Designed the mascot of Scilab (Matlab Open-Source Alternative) in 2003:
+
+![Mascot of Scilab](images/puffin.png)
