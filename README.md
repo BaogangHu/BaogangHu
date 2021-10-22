@@ -1,6 +1,6 @@
 # In memorial of Dr. Bao-Gang HU  (胡包钢)
 
-![images/baogang.jpg]
+![Portrait of Baogang Hu](images/baogang.jpg)
 
 8 February 1955 – 22 Augest 2021
 
