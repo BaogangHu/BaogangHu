@@ -2,7 +2,7 @@
 
 ![Portrait of Baogang Hu](images/baogang.jpg)
 
-8 February 1955 – 22 Augest 2021
+8 February 1955 – 22 August 2021
 
 Professor, LIAMA/NLPR, Institute of Automation  
 Early Advocate of the Open Source Movement in China  
